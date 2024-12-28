@@ -61,13 +61,9 @@ The utility safely removes or disables:
 - Feedback Hub
 - 3D Viewer
 
-## Contributing
+## Showcase
 
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## License
-
-MIT License - feel free to modify and use this code in your projects.
 
 ## Disclaimer
 
