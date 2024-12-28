@@ -64,6 +64,10 @@ The utility safely removes or disables:
 ## Showcase
 
 
+https://github.com/user-attachments/assets/5e2ea474-78b0-4809-b771-3017526057c6
+
+
+
 
 ## Disclaimer
 
